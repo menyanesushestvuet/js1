@@ -1,1 +1,4 @@
-document.write("Это JavaScript!")
+<script>
+alert("hello?");
+document.write("hello!");
+</script>
